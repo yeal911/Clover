@@ -78,6 +78,7 @@ Combinados, permiten al usuario encontrar su farmacia más cercana:
 ## Manejo de datos
 La aplicación utiliza un archivo JSON en un directorio privado de la app para gestionar toda la información del usuario. Este archivo se carga y se modifica conforme el usuario ejecuta una acción:
 
+<img src="https://github.com/victorpj98/Clover/blob/master/Diagrama.png">
 
 
 ## Bugs conocidos
