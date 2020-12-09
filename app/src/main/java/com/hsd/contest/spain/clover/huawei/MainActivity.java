@@ -171,6 +171,8 @@ public class MainActivity extends AppCompatActivity  {
                         clover_dialog.setText("");
                         clover_dialog.setCharacterDelay((long) 35);
                         clover_dialog.animateText("¡Y hasta aquí todo lo que necesitas que saber! ¿Por qué no añades tu primer tratamiento? ¡Seguro que lo haces genial!");
+                        add_btn.setEnabled(true);
+                        check_btn.setEnabled(true);
                     }
                 });
             }
