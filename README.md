@@ -1,3 +1,5 @@
+<img src="https://github.com/victorpj98/Clover/blob/master/Clover.png">
+
 # Clover 
 ## Tu asistente personal para todos tus tratamientos 💊
 
