@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array
+        name="main_dialogs_noon">
+        <item>¡Hola! ¡Hay que ver, qué día hace hoy! ¿Tienes algún plan?</item>
+        <item>¡Buen día! Hoy he leído que la medicina legal más antigua del mundo es la Aspirina. ¡Lleva más de 150 años comercializándose!</item>
+        <item>¿Qué tal va el día? ¡Mientras no estabas he hecho 1000 flexiones! ¡Acordarme de todo requiere de una preparación extrema!</item>
+        <item>Últimamente te veo mucho por aquí. ¡Estoy muy contenta de que seas tan constante!</item>
+        <item>¿Qué, pensabas que estaba durmiendo mientras no estabas? ¡Yo nunca duermo!</item>
+    </string-array>
+</resources>

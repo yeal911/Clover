@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Clover</string>
+    <string name="prompt_name">¿Cuál es tu nombre?</string>
+    <string name="anadir">AÑADIR</string>
+    <string name="consultar">CONSULTAR</string>
+    <string name="nombre">Nombre</string>
+    <string name="lunes">Lunes</string>
+    <string name="martes">Martes</string>
+    <string name="miercoles">Miércoles</string>
+    <string name="jueves">Jueves</string>
+    <string name="viernes">Viernes</string>
+    <string name="sabado">Sábado</string>
+    <string name="domingo">Domingo</string>
+    <string name="frecuencia">Frecuencia</string>
+    <string name="fecha_de_inicio">Fecha de inicio</string>
+    <string name="cada_dia">Cada día</string>
+    <string name="dias_especificos">Días específicos</string>
+    <string name="intervalo_de_tiempo">Intervalo de tiempo</string>
+    <string name="continuar">Continuar</string>
+    <string name="seleccion_de_dias">Selección de días</string>
+    <string name="intervalo_personalizado">Intervalo personalizado</string>
+    <string name="borrar_seguro">¿Estás seguro?</string>
+    <string name="eliminar">Eliminar</string>
+    <string name="no">No</string>
+    <string name="tratamiento">Tratamiento</string>
+    <string name="guardado_exito">¡Tratamiento guardado con éxito!</string>
+    <string name="empty_1">Cuando empieces a añadir tratamientos, aparecerán aquí. ¿Quieres que te ayude? ¡Vuelve a la pantalla anterior y pulsa el botón</string>
+    <string name="error_reconocimiento">No se ha reconocido ningún nombre.</string>
+    <string name="nueva_dosis_pendiente">Nueva dosis pendiente</string>
+    <string name="nueva_dosis">¡Te toca una nueva dosis!</string>
+    <string name="buscar">ENCUENTRA UNA FARMACIA</string>
+    <string name="encontrar_farmacias_cercanas">FARMACIAS MÁS CERCANAS</string>
+</resources>

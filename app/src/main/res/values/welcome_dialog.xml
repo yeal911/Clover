@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array
+        name="welcome_dialog">
+        <item>"¡Oh, hola! ¡No te había visto nunca! ¿Cómo estás?"</item>
+        <!-- TODO: Poner el nombre de Clover en rojo; aunque ello supondría cambiar el bucle de ConfigActivity. -->
+        <item>"Encantada de conocerte, soy Clover. Ya sé que no me conoces mucho, pero no te preocupes: ¡lo llevaré todo al día para ti!</item>
+        <item>"En serio, soy muy ordenada. ¡No se me escapa ni una! Pero, antes que se me olvide, ¿me podrías decir tu nombre?"</item>
+        <item>"¡Genial, "</item>
+        <item>"! Ahora que ya nos conocemos, ¡voy a enseñarte un poco todo esto! ¡Sígueme!"</item>
+    </string-array>
+</resources>

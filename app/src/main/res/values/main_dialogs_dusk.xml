@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array
+        name="main_dialogs_dusk">
+        <item>¡Hola de nuevo! Me encanta esta hora, ¿a ti no? Se ve todo tan bonito…</item>
+        <item>"Arrebolada de tarde, mañana de aire", o eso decía mi abuela. ¿Te sabes tú algún refrán?</item>
+        <item>¿Has visto qué cielo? ¡Se pone así de rojo porque refleja la luz del Sol al atardecer!</item>
+        <item>A veces pienso a qué hora elegían los grandes artistas para crear sus piezas más bellas. ¡Estoy convencida de que es esta!</item>
+        <item>Mi creador dice que ver el atardecer sobre el mar es de lo más bonito que hay, ¡pero siempre que va a verlo me tiene en el bolsillo!</item>
+    </string-array>
+</resources>

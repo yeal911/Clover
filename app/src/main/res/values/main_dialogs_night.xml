@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array
+        name="main_dialogs_night">
+        <item>¡Buenas noches! ¿Has cenado ya?</item>
+        <item>"A chica cama, si queréis remedio, echaos en medio." ¿Cuál es tu lado de la cama?</item>
+        <item>¡Buenas noches! ¿Sabías que a lo largo de la vida pasamos 25 años durmiendo? ¡Eso es casi un tercio de nuestra lo que vivimos!</item>
+        <item>Uhuuu, uhuuu… a esta hora se despiertan los búhos. ¿Sabes que las especies que tienen los ojos de color similar cazan sobre la misma hora?</item>
+        <item>¿Te imaginas que, de 24 horas que tiene el día, 18 fueran de noche? ¡Eso es lo que ocurre en los países nórdicos en diciembre! ¿Lo sabías?</item>
+    </string-array>
+</resources>
