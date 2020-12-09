@@ -1,5 +1,9 @@
 # Clover
 
+<a href="https://www.youtube.com/watch?v=p8Nrj9qe8tU&feature=youtu.be&ab_channel=V%C3%ADctorP%C3%A9rez
+" target="_blank"><img src="https://yt-embed.herokuapp.com/embed?v=p8Nrj9qe8tU" 
+alt="IMAGE ALT TEXT HERE" border="10" /></a>
+
 ## Descripción
 Clover es un asistente de seguimiento de tratamientos orientado a personas que necesitan llevar un control de su medicación, y es la aplicación con la que me presento al concurso de programación de apps basadas en HMS Core "Huawei Student Developers Spain".
 
@@ -71,3 +75,21 @@ Combinados, permiten al usuario encontrar su farmacia más cercana:
 
 *Importante: funcionalidad sujeta a la configuración y disponibilidad de la ubicación de cada usuario.*
 
+## Manejo de datos
+La aplicación utiliza un archivo JSON en un directorio privado de la app para gestionar toda la información del usuario. Este archivo se carga y se modifica conforme el usuario ejecuta una acción:
+
+
+
+## Bugs conocidos
+Una aplicación no puede desarrollarse de forma íntegra en tan poco tiempo, y por eso la versión que se muestra aquí es la primera de un proyecto que planeo continuar al terminar el torneo. Algunas de las mejoras que tengo pensadas son:
+
+- Incluir el nombre del usuario en la notificación.
+- Rehacer el sistema de control de alarmas para permitir editarlas y eliminarlas.
+- Convertir el método ````setWeather``` a estático para evitar repetirlo.
+- Actualización del cielo desde el Intent de la actividad anterior para evitar cambios bruscos.
+- Opción de modo sin conexión (mediante JSON) y basado en la nube para poder gestionar múltiples entradas de datos sin sobrecargar el peso de la app.
+- Servicios extra usando HMS: Nearby para informar de las farmacias cercanas cuando te acerques a ellas, etc.
+- Plan de monetización.
+
+## Si has leído hasta aquí...
+Quiero darte las gracias personalmente y, si lo lees en diciembre de 2020, aprovechar para desearte unas felices fiestas. 🎄
